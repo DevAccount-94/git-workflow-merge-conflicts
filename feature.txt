@@ -1,2 +1,3 @@
 Hello world!
 Ne text changes for fix branch
+test merge scenario
